@@ -1,1 +1,1 @@
-# Shortcut-OS
+Ver 1.0
