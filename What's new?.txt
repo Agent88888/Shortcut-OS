@@ -1,7 +1,8 @@
-What's new in Shortcuts OS well, this is
-You could now see what's new and what's changed and the newest version of Shortcuts OS 1.1
+What's new in Shortcuts OS 1.1 well, this is
+You could now see what's new and what's changed
 
 What's new?
+
 - You can now see the version number located in settings
 - There's a new App Store where you could download more apps and add your own apps
 
