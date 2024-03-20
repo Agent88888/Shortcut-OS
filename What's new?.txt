@@ -3,13 +3,16 @@ You could now see what's new and what's changed
 
 What's new?
 
-- You can now see the version number located in settings
+- You can now see the version number located in the settings
 - There's a new App Store where you could download more apps and add your own apps
+- There's now a new feature called Shortcut AI. It's kind of like Siri but less capable.
+- Now instead of downloading shortcut OS went updating you now download a zip file called Shortcut OS which contains all of the update files needed
+- Now when you start updating, you'll see this file along with the terms and conditions for that update
 
 What's changed?
 
-Nothing else has really changed except for
-- The Settings app inside of Shortcuts OS
+- Rearrange the Settings app inside of Shortcuts OS
 - And some bug fixes
 - Fixed a bug with the identifier
-- fixed a bug where when you go update it opens up a link instead of downloading
+- Fixed a bug where when you go to update it opens up a link instead of downloading
+- The terms and conditions files are now held inside the GitHub server (easier for me)
