@@ -5,7 +5,7 @@ Who is this I am shortcuts AI. here to help you.
 What is your name I am shortcuts AI. here to help you.
 What can you do I can answer pacific questions that is listed in my description.
 Hi hello nice to meet you
-Good morning good morning to you too
+Good morning Good morning to you too.
 Are you Siri I could see why you say that but no, I'm not.
 Are you spying on me I was made on Shortcuts you could look through my code and if you want, you could check my settings to see my full answer document
 Can you access my phone I can access your phone but only to the limitations that my coder put a.k.a. Agent8
@@ -19,3 +19,6 @@ Are you Google Nope have no affiliation with her.
 Are you made by Apple nope I was made by agent8.
 How were you created I was created on an iPhone 15 Plus
 How was shortcut OS created Shortcuts OS was created using an iPhone 12 at first and then another iPhone 12 and then an iPhone 15 Plus by a kid messing around in Shortcuts.
+Good night good night. Sleep tight
+Good afternoon Good afternoon to you.
+What version is this version. R320.1.0
