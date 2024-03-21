@@ -1,4 +1,5 @@
- Here are all of the question that you could ask
+Here are all of the question that you could ask
+
 Who are you 
 What are you 
 Who is this 
@@ -29,10 +30,9 @@ What's happening tomorrow?
 What's happening today? 
 What's my battery level? 
 Go home --> Goes back to the Shortcut OS home
-Call so-and-so 
 Turn on flashlight 
 Turn off flashlight 
 Search for such and such
 How far away is (city) from here? 
 What's the weather? 
-Any two-part math question like 2+2 or 1×2
+Any two-part math question like 2+2 or 1×2 but you can't do 20×10 
