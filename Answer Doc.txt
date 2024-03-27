@@ -37,3 +37,5 @@ How far away is (city) from here?
 What's the weather? 
 Any two-part math question like 2+2 or 1×2 but you can't do 20×10
 Set a timer for (time) min sec hour 
+Play/Pause
+How do you spell
