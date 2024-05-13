@@ -16,3 +16,4 @@ What's changed?
 - Fixed a bug with the identifier
 - Fixed a bug where when you go to update it opens up a link instead of downloading
 - The terms and conditions files are now held inside the GitHub server (easier for me)
+- Updated the way that the iCloud identifiers work now when booting the operating system it will create a unique identifier that will only work for that device 
