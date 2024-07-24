@@ -8,12 +8,15 @@ What's new?
 - There's now a new feature called Shortcut AI. It's kind of like Siri but less capable.
 - Now instead of downloading shortcut OS went updating you now download a zip file called Shortcut OS which contains all of the update files needed
 - Now when you start updating, you'll see this file along with the terms and conditions for that update
+- You are now able to create a new user. This new user will have its own name and own password and associated apps like home and back up or other will also have that second user's name when activated, but the second user will have a shared file system with the first user photos will be still available to the second user
 
 What's changed?
 
 - Rearrange the Settings app inside of Shortcuts OS
-- And some bug fixes
-- Fixed a bug with the identifier
 - Fixed a bug where when you go to update it opens up a link instead of downloading
 - The terms and conditions files are now held inside the GitHub server (easier for me)
-- Updated the way that the iCloud identifiers work now when booting the operating system it will create a unique identifier that will only work for that device 
+- Updated the way that the iCloud identifiers work now when is setting up the shortcut OS for the first time it will create a unique identifier deleting this brick shortcut OS if when updating Shortcuts OS brings up the iCloud identifer error delete the OS folder and the user folder on the iCloud Drive. Make sure you back up your data and set up the device again (I have plans to update this in the future)
+- The file system has changed to completely to adapt for a second user so you may have to transfer your user or create a new user (this means you need to update all apps)
+- Fixed a bug where if you don't have any password, it still lets you in and doesn't lock you out
+
+Reminder that you may need to manually edit shortcut OS so that way it could automatically open up the Home app and other apps 
